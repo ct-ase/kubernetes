@@ -1,4 +1,4 @@
-namespace: argoapptest
+namespace: aseargoapptest
 
 ingress:
   host: argocd-argoapptest.example.com
